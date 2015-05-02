@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Map_GPS</string>
+    <string name="title">Maps and GPS</string>
+    <string name="latitud">Latitud: </string>
+    <string name="latitud_coordinates"> </string>
+    <string name="longitud">Longitud: </string>
+    <string name="longitud_coordinates"> </string>
+    <string name="action_settings">Settings</string>
+
+</resources>
